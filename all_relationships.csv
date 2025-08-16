@@ -1,5 +1,5 @@
 :START_ID,:END_ID,:TYPE,description:string
-MLF_001,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLF_001_SC01,MLF_001,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLF_001_SC01_D01,MLF_001_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLF_001_SC01_D02,MLF_001_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -30,7 +30,7 @@ MLF_001_SC05_D02,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows th
 MLF_001_SC05_D03,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLF_001_SC05_D04,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLF_001_SC05_D05,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLC_002,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLC_002_SC01,MLC_002,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLC_002_SC01_D01,MLC_002_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLC_002_SC01_D02,MLC_002_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -55,7 +55,7 @@ MLC_002_SC05_D01,MLC_002_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows th
 MLC_002_SC05_D02,MLC_002_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLC_002_SC05_D03,MLC_002_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLC_002_SC05_D04,MLC_002_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLD_003,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLD_003_SC01,MLD_003,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLD_003_SC01_D01,MLD_003_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLD_003_SC01_D02,MLD_003_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -79,7 +79,7 @@ MLD_003_SC05_D01,MLD_003_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows th
 MLD_003_SC05_D02,MLD_003_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLD_003_SC05_D03,MLD_003_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLD_003_SC05_D04,MLD_003_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLM_004,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLM_004_SC01,MLM_004,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLM_004_SC01_D01,MLM_004_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLM_004_SC01_D02,MLM_004_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -93,7 +93,7 @@ MLM_004_SC03_D01,MLM_004_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows th
 MLM_004_SC03_D02,MLM_004_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLM_004_SC03_D03,MLM_004_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLM_004_SC03_D04,MLM_004_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLB_005,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLB_005_SC01,MLB_005,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLB_005_SC01_D01,MLB_005_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLB_005_SC01_D02,MLB_005_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -106,7 +106,7 @@ MLB_005_SC03,MLB_005,ALLOWS_UNDERSTANDING_OF,This relationship shows that unders
 MLB_005_SC03_D01,MLB_005_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLB_005_SC03_D02,MLB_005_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLB_005_SC03_D03,MLB_005_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLN_006,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLN_006_SC01,MLN_006,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLN_006_SC01_D01,MLN_006_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLN_006_SC01_D02,MLN_006_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -120,7 +120,7 @@ MLN_006_SC03,MLN_006,ALLOWS_UNDERSTANDING_OF,This relationship shows that unders
 MLN_006_SC03_D01,MLN_006_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLN_006_SC03_D02,MLN_006_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLN_006_SC03_D03,MLN_006_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLP_007,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLP_007_SC01,MLP_007,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLP_007_SC01_D01,MLP_007_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLP_007_SC01_D02,MLP_007_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -130,7 +130,7 @@ MLP_007_SC02,MLP_007,ALLOWS_UNDERSTANDING_OF,This relationship shows that unders
 MLP_007_SC02_D01,MLP_007_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLP_007_SC02_D02,MLP_007_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLP_007_SC02_D03,MLP_007_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLH_008,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLH_008_SC01,MLH_008,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLH_008_SC01_D01,MLH_008_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLH_008_SC01_D02,MLH_008_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -143,7 +143,7 @@ MLH_008_SC03,MLH_008,ALLOWS_UNDERSTANDING_OF,This relationship shows that unders
 MLH_008_SC03_D01,MLH_008_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLH_008_SC03_D02,MLH_008_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLH_008_SC03_D03,MLH_008_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLO_009,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLO_009_SC01,MLO_009,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLO_009_SC01_D01,MLO_009_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLO_009_SC01_D02,MLO_009_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
@@ -156,7 +156,7 @@ MLO_009_SC03,MLO_009,ALLOWS_UNDERSTANDING_OF,This relationship shows that unders
 MLO_009_SC03_D01,MLO_009_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLO_009_SC03_D02,MLO_009_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLO_009_SC03_D03,MLO_009_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
-MLW_010,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010,machine_learning_insights,CONTAINS,This relationship shows that the curriculum contains and organizes this concept.
 MLW_010_SC01,MLW_010,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLW_010_SC01_D01,MLW_010_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
 MLW_010_SC01_D02,MLW_010_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
