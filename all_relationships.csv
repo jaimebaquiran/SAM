@@ -1,268 +1,285 @@
-~id,~start_node_id,~end_node_id,~relationship_type
-rel_0,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:2,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,ALLOWS_UNDERSTANDING_OF
-rel_2,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:3,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:2,ALLOWS_UNDERSTANDING_OF
-rel_3,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:4,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:2,ALLOWS_UNDERSTANDING_OF
-rel_4,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:5,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:2,ALLOWS_UNDERSTANDING_OF
-rel_5,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:6,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:2,ALLOWS_UNDERSTANDING_OF
-rel_6,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:7,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:2,ALLOWS_UNDERSTANDING_OF
-rel_7,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:8,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,ALLOWS_UNDERSTANDING_OF
-rel_8,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:9,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:8,ALLOWS_UNDERSTANDING_OF
-rel_9,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:10,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:8,ALLOWS_UNDERSTANDING_OF
-rel_10,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:11,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:8,ALLOWS_UNDERSTANDING_OF
-rel_11,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:12,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:8,ALLOWS_UNDERSTANDING_OF
-rel_12,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:13,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:8,ALLOWS_UNDERSTANDING_OF
-rel_13,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:14,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,ALLOWS_UNDERSTANDING_OF
-rel_14,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:15,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:14,ALLOWS_UNDERSTANDING_OF
-rel_15,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:16,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:14,ALLOWS_UNDERSTANDING_OF
-rel_16,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:17,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:14,ALLOWS_UNDERSTANDING_OF
-rel_17,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:18,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:14,ALLOWS_UNDERSTANDING_OF
-rel_18,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:19,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:14,ALLOWS_UNDERSTANDING_OF
-rel_19,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:20,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,ALLOWS_UNDERSTANDING_OF
-rel_20,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:21,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:20,ALLOWS_UNDERSTANDING_OF
-rel_21,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:22,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:20,ALLOWS_UNDERSTANDING_OF
-rel_22,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:23,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:20,ALLOWS_UNDERSTANDING_OF
-rel_23,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:24,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:20,ALLOWS_UNDERSTANDING_OF
-rel_24,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:25,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:20,ALLOWS_UNDERSTANDING_OF
-rel_25,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:26,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,ALLOWS_UNDERSTANDING_OF
-rel_26,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:27,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:26,ALLOWS_UNDERSTANDING_OF
-rel_27,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:28,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:26,ALLOWS_UNDERSTANDING_OF
-rel_28,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:29,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:26,ALLOWS_UNDERSTANDING_OF
-rel_29,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:30,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:26,ALLOWS_UNDERSTANDING_OF
-rel_30,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:31,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:26,ALLOWS_UNDERSTANDING_OF
-rel_31,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:33,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,ALLOWS_UNDERSTANDING_OF
-rel_33,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:34,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:33,ALLOWS_UNDERSTANDING_OF
-rel_34,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:35,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:33,ALLOWS_UNDERSTANDING_OF
-rel_35,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:36,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:33,ALLOWS_UNDERSTANDING_OF
-rel_36,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:37,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:33,ALLOWS_UNDERSTANDING_OF
-rel_37,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:38,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,ALLOWS_UNDERSTANDING_OF
-rel_38,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:39,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:38,ALLOWS_UNDERSTANDING_OF
-rel_39,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:40,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:38,ALLOWS_UNDERSTANDING_OF
-rel_40,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:41,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:38,ALLOWS_UNDERSTANDING_OF
-rel_41,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:42,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:38,ALLOWS_UNDERSTANDING_OF
-rel_42,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:43,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,ALLOWS_UNDERSTANDING_OF
-rel_43,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:44,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:43,ALLOWS_UNDERSTANDING_OF
-rel_44,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:45,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:43,ALLOWS_UNDERSTANDING_OF
-rel_45,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:46,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:43,ALLOWS_UNDERSTANDING_OF
-rel_46,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:47,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,ALLOWS_UNDERSTANDING_OF
-rel_47,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:48,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:47,ALLOWS_UNDERSTANDING_OF
-rel_48,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:49,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:47,ALLOWS_UNDERSTANDING_OF
-rel_49,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:50,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:47,ALLOWS_UNDERSTANDING_OF
-rel_50,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:51,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:47,ALLOWS_UNDERSTANDING_OF
-rel_51,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:52,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,ALLOWS_UNDERSTANDING_OF
-rel_52,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:53,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:52,ALLOWS_UNDERSTANDING_OF
-rel_53,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:54,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:52,ALLOWS_UNDERSTANDING_OF
-rel_54,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:55,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:52,ALLOWS_UNDERSTANDING_OF
-rel_55,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:56,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:52,ALLOWS_UNDERSTANDING_OF
-rel_56,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:58,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,ALLOWS_UNDERSTANDING_OF
-rel_58,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:59,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:58,ALLOWS_UNDERSTANDING_OF
-rel_59,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:60,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:58,ALLOWS_UNDERSTANDING_OF
-rel_60,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:61,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:58,ALLOWS_UNDERSTANDING_OF
-rel_61,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:62,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:58,ALLOWS_UNDERSTANDING_OF
-rel_62,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:63,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,ALLOWS_UNDERSTANDING_OF
-rel_63,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:64,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:63,ALLOWS_UNDERSTANDING_OF
-rel_64,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:65,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:63,ALLOWS_UNDERSTANDING_OF
-rel_65,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:66,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:63,ALLOWS_UNDERSTANDING_OF
-rel_66,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:67,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,ALLOWS_UNDERSTANDING_OF
-rel_67,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:68,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:67,ALLOWS_UNDERSTANDING_OF
-rel_68,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:69,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:67,ALLOWS_UNDERSTANDING_OF
-rel_69,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:70,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:67,ALLOWS_UNDERSTANDING_OF
-rel_70,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:71,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:67,ALLOWS_UNDERSTANDING_OF
-rel_71,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:72,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,ALLOWS_UNDERSTANDING_OF
-rel_72,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:73,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:72,ALLOWS_UNDERSTANDING_OF
-rel_73,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:74,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:72,ALLOWS_UNDERSTANDING_OF
-rel_74,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:75,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:72,ALLOWS_UNDERSTANDING_OF
-rel_75,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:76,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,ALLOWS_UNDERSTANDING_OF
-rel_76,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:77,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:76,ALLOWS_UNDERSTANDING_OF
-rel_77,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:78,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:76,ALLOWS_UNDERSTANDING_OF
-rel_78,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:79,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:76,ALLOWS_UNDERSTANDING_OF
-rel_79,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:80,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:76,ALLOWS_UNDERSTANDING_OF
-rel_80,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:82,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,ALLOWS_UNDERSTANDING_OF
-rel_82,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:83,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:82,ALLOWS_UNDERSTANDING_OF
-rel_83,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:84,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:82,ALLOWS_UNDERSTANDING_OF
-rel_84,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:85,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:82,ALLOWS_UNDERSTANDING_OF
-rel_85,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:86,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,ALLOWS_UNDERSTANDING_OF
-rel_86,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:87,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:86,ALLOWS_UNDERSTANDING_OF
-rel_87,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:88,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:86,ALLOWS_UNDERSTANDING_OF
-rel_88,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:89,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:86,ALLOWS_UNDERSTANDING_OF
-rel_89,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:90,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,ALLOWS_UNDERSTANDING_OF
-rel_90,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:91,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:90,ALLOWS_UNDERSTANDING_OF
-rel_91,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:92,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:90,ALLOWS_UNDERSTANDING_OF
-rel_92,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:93,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:90,ALLOWS_UNDERSTANDING_OF
-rel_93,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:94,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:90,ALLOWS_UNDERSTANDING_OF
-rel_94,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:96,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,ALLOWS_UNDERSTANDING_OF
-rel_96,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:97,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:96,ALLOWS_UNDERSTANDING_OF
-rel_97,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:98,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:96,ALLOWS_UNDERSTANDING_OF
-rel_98,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:99,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:96,ALLOWS_UNDERSTANDING_OF
-rel_99,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:100,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,ALLOWS_UNDERSTANDING_OF
-rel_100,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:101,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:100,ALLOWS_UNDERSTANDING_OF
-rel_101,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:102,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:100,ALLOWS_UNDERSTANDING_OF
-rel_102,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:103,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:100,ALLOWS_UNDERSTANDING_OF
-rel_103,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:104,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,ALLOWS_UNDERSTANDING_OF
-rel_104,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:105,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:104,ALLOWS_UNDERSTANDING_OF
-rel_105,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:106,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:104,ALLOWS_UNDERSTANDING_OF
-rel_106,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:107,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:104,ALLOWS_UNDERSTANDING_OF
-rel_107,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_108,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:109,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,ALLOWS_UNDERSTANDING_OF
-rel_109,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:110,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:109,ALLOWS_UNDERSTANDING_OF
-rel_110,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:111,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:109,ALLOWS_UNDERSTANDING_OF
-rel_111,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:112,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:109,ALLOWS_UNDERSTANDING_OF
-rel_112,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:113,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:109,ALLOWS_UNDERSTANDING_OF
-rel_113,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:114,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,ALLOWS_UNDERSTANDING_OF
-rel_114,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:115,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:114,ALLOWS_UNDERSTANDING_OF
-rel_115,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:116,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:114,ALLOWS_UNDERSTANDING_OF
-rel_116,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:117,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:114,ALLOWS_UNDERSTANDING_OF
-rel_117,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:118,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,ALLOWS_UNDERSTANDING_OF
-rel_118,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:119,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:118,ALLOWS_UNDERSTANDING_OF
-rel_119,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:120,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:118,ALLOWS_UNDERSTANDING_OF
-rel_120,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:121,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:118,ALLOWS_UNDERSTANDING_OF
-rel_121,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:123,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,ALLOWS_UNDERSTANDING_OF
-rel_123,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:124,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:123,ALLOWS_UNDERSTANDING_OF
-rel_124,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:125,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:123,ALLOWS_UNDERSTANDING_OF
-rel_125,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:126,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:123,ALLOWS_UNDERSTANDING_OF
-rel_126,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:127,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:123,ALLOWS_UNDERSTANDING_OF
-rel_127,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:128,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,ALLOWS_UNDERSTANDING_OF
-rel_128,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:129,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:128,ALLOWS_UNDERSTANDING_OF
-rel_129,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:130,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:128,ALLOWS_UNDERSTANDING_OF
-rel_130,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:131,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:128,ALLOWS_UNDERSTANDING_OF
-rel_131,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:133,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,ALLOWS_UNDERSTANDING_OF
-rel_133,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:134,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:133,ALLOWS_UNDERSTANDING_OF
-rel_134,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:135,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:133,ALLOWS_UNDERSTANDING_OF
-rel_135,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:136,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:133,ALLOWS_UNDERSTANDING_OF
-rel_136,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:137,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,ALLOWS_UNDERSTANDING_OF
-rel_137,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:138,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:137,ALLOWS_UNDERSTANDING_OF
-rel_138,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:139,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:137,ALLOWS_UNDERSTANDING_OF
-rel_139,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:140,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:137,ALLOWS_UNDERSTANDING_OF
-rel_140,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:141,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,ALLOWS_UNDERSTANDING_OF
-rel_141,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:142,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:141,ALLOWS_UNDERSTANDING_OF
-rel_142,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:143,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:141,ALLOWS_UNDERSTANDING_OF
-rel_143,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:144,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:141,ALLOWS_UNDERSTANDING_OF
-rel_144,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_145,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:146,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,ALLOWS_UNDERSTANDING_OF
-rel_146,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:147,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:146,ALLOWS_UNDERSTANDING_OF
-rel_147,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:148,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:146,ALLOWS_UNDERSTANDING_OF
-rel_148,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:149,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:146,ALLOWS_UNDERSTANDING_OF
-rel_149,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:150,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,ALLOWS_UNDERSTANDING_OF
-rel_150,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:151,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:150,ALLOWS_UNDERSTANDING_OF
-rel_151,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:152,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:150,ALLOWS_UNDERSTANDING_OF
-rel_152,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:153,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:150,ALLOWS_UNDERSTANDING_OF
-rel_153,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:154,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,ALLOWS_UNDERSTANDING_OF
-rel_154,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:155,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:154,ALLOWS_UNDERSTANDING_OF
-rel_155,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:156,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:154,ALLOWS_UNDERSTANDING_OF
-rel_156,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:157,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:154,ALLOWS_UNDERSTANDING_OF
-rel_157,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:0,ALLOWS_UNDERSTANDING_OF
-rel_158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:159,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,ALLOWS_UNDERSTANDING_OF
-rel_159,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:160,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:159,ALLOWS_UNDERSTANDING_OF
-rel_160,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:161,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:159,ALLOWS_UNDERSTANDING_OF
-rel_161,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:162,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:159,ALLOWS_UNDERSTANDING_OF
-rel_162,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:163,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:159,ALLOWS_UNDERSTANDING_OF
-rel_163,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:164,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,ALLOWS_UNDERSTANDING_OF
-rel_164,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:165,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:164,ALLOWS_UNDERSTANDING_OF
-rel_165,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:166,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:164,ALLOWS_UNDERSTANDING_OF
-rel_166,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:167,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:164,ALLOWS_UNDERSTANDING_OF
-rel_167,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:168,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:164,ALLOWS_UNDERSTANDING_OF
-rel_168,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:169,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,ALLOWS_UNDERSTANDING_OF
-rel_169,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:170,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:169,ALLOWS_UNDERSTANDING_OF
-rel_170,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:171,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:169,ALLOWS_UNDERSTANDING_OF
-rel_171,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:172,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:169,ALLOWS_UNDERSTANDING_OF
-rel_172,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:173,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:169,ALLOWS_UNDERSTANDING_OF
-rel_173,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,PREREQUISITE
-rel_174,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,PREREQUISITE
-rel_175,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,PREREQUISITE
-rel_176,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,PREREQUISITE
-rel_177,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,PREREQUISITE
-rel_178,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,PREREQUISITE
-rel_179,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,PREREQUISITE
-rel_180,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,PREREQUISITE
-rel_181,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_182,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,PREREQUISITE
-rel_183,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,PREREQUISITE
-rel_184,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,PREREQUISITE
-rel_185,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,PREREQUISITE
-rel_186,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,PREREQUISITE
-rel_187,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,PREREQUISITE
-rel_188,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,PREREQUISITE
-rel_189,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,PREREQUISITE
-rel_190,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_191,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_192,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_193,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_194,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_195,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_196,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_197,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,PREREQUISITE
-rel_198,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,CROSS_REFERENCES
-rel_199,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,CROSS_REFERENCES
-rel_200,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,CROSS_REFERENCES
-rel_201,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,CROSS_REFERENCES
-rel_202,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,CROSS_REFERENCES
-rel_203,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,CROSS_REFERENCES
-rel_204,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,CROSS_REFERENCES
-rel_205,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,APPLIES_TO
-rel_206,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,APPLIES_TO
-rel_207,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,APPLIES_TO
-rel_208,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,APPLIES_TO
-rel_209,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_210,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_211,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_212,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_213,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_214,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_215,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_216,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_217,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,APPLIES_TO
-rel_218,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,CONCEPTUAL_CLUSTER
-rel_219,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,CONCEPTUAL_CLUSTER
-rel_220,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,CONCEPTUAL_CLUSTER
-rel_221,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,CONCEPTUAL_CLUSTER
-rel_222,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,CONCEPTUAL_CLUSTER
-rel_223,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,CONCEPTUAL_CLUSTER
-rel_224,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,CONCEPTUAL_CLUSTER
-rel_225,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,CONCEPTUAL_CLUSTER
-rel_226,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,CONCEPTUAL_CLUSTER
-rel_227,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,CONCEPTUAL_CLUSTER
-rel_228,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,DIFFICULTY_PROGRESSION
-rel_229,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,DIFFICULTY_PROGRESSION
-rel_230,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,DIFFICULTY_PROGRESSION
-rel_231,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,DIFFICULTY_PROGRESSION
-rel_232,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,DIFFICULTY_PROGRESSION
-rel_233,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,DIFFICULTY_PROGRESSION
-rel_234,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,DIFFICULTY_PROGRESSION
-rel_235,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,DIFFICULTY_PROGRESSION
-rel_236,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,DIFFICULTY_PROGRESSION
-rel_237,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,DIFFICULTY_PROGRESSION
-rel_238,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,DIFFICULTY_PROGRESSION
-rel_239,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,DIFFICULTY_PROGRESSION
-rel_240,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,DIFFICULTY_PROGRESSION
-rel_241,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,DIFFICULTY_PROGRESSION
-rel_242,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,DIFFICULTY_PROGRESSION
-rel_243,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,DIFFICULTY_PROGRESSION
-rel_244,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,DIFFICULTY_PROGRESSION
-rel_245,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,DIFFICULTY_PROGRESSION
-rel_246,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,DIFFICULTY_PROGRESSION
-rel_247,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,DIFFICULTY_PROGRESSION
-rel_248,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,DIFFICULTY_PROGRESSION
-rel_249,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,DIFFICULTY_PROGRESSION
-rel_250,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,DIFFICULTY_PROGRESSION
-rel_251,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,DIFFICULTY_PROGRESSION
-rel_252,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,SYNTHESIZES
-rel_253,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,SYNTHESIZES
-rel_254,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,SYNTHESIZES
-rel_255,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,SYNTHESIZES
-rel_256,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,SYNTHESIZES
-rel_257,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,SYNTHESIZES
-rel_258,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,SYNTHESIZES
-rel_259,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,SYNTHESIZS
-rel_260,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:158,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:145,SYNTHESIZES
-rel_261,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:81,SYNTHESIZES
-rel_262,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:122,SYNTHESIZES
-rel_263,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:95,SYNTHESIZES
-rel_264,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:57,SYNTHESIZES
-rel_265,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:108,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:32,SPECIALIZES
-rel_266,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:132,4:90748360-fab7-43c8-9fc3-ee8c4a62bb2a:1,SPECIALIZES
+:START_ID,:END_ID,:TYPE,description:string
+MLF_001,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC01,MLF_001,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC01_D01,MLF_001_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC01_D02,MLF_001_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC01_D03,MLF_001_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC01_D04,MLF_001_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC01_D05,MLF_001_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC02,MLF_001,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC02_D01,MLF_001_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC02_D02,MLF_001_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC02_D03,MLF_001_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC02_D04,MLF_001_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC02_D05,MLF_001_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC03,MLF_001,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC03_D01,MLF_001_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC03_D02,MLF_001_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC03_D03,MLF_001_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC03_D04,MLF_001_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC03_D05,MLF_001_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC04,MLF_001,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC04_D01,MLF_001_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC04_D02,MLF_001_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC04_D03,MLF_001_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC04_D04,MLF_001_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC04_D05,MLF_001_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC05,MLF_001,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC05_D01,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC05_D02,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC05_D03,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC05_D04,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLF_001_SC05_D05,MLF_001_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC01,MLC_002,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC01_D01,MLC_002_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC01_D02,MLC_002_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC01_D03,MLC_002_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC01_D04,MLC_002_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC02,MLC_002,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC02_D01,MLC_002_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC02_D02,MLC_002_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC02_D03,MLC_002_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC02_D04,MLC_002_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC03,MLC_002,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC03_D01,MLC_002_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC03_D02,MLC_002_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC03_D03,MLC_002_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC04,MLC_002,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC04_D01,MLC_002_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC04_D02,MLC_002_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC04_D03,MLC_002_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC04_D04,MLC_002_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC05,MLC_002,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC05_D01,MLC_002_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC05_D02,MLC_002_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC05_D03,MLC_002_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002_SC05_D04,MLC_002_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC01,MLD_003,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC01_D01,MLD_003_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC01_D02,MLD_003_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC01_D03,MLD_003_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC01_D04,MLD_003_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC02,MLD_003,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC02_D01,MLD_003_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC02_D02,MLD_003_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC02_D03,MLD_003_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC03,MLD_003,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC03_D01,MLD_003_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC03_D02,MLD_003_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC03_D03,MLD_003_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC03_D04,MLD_003_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC04,MLD_003,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC04_D01,MLD_003_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC04_D02,MLD_003_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC04_D03,MLD_003_SC04,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC05,MLD_003,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC05_D01,MLD_003_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC05_D02,MLD_003_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC05_D03,MLD_003_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLD_003_SC05_D04,MLD_003_SC05,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC01,MLM_004,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC01_D01,MLM_004_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC01_D02,MLM_004_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC01_D03,MLM_004_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC02,MLM_004,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC02_D01,MLM_004_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC02_D02,MLM_004_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC02_D03,MLM_004_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC03,MLM_004,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC03_D01,MLM_004_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC03_D02,MLM_004_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC03_D03,MLM_004_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLM_004_SC03_D04,MLM_004_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC01,MLB_005,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC01_D01,MLB_005_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC01_D02,MLB_005_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC01_D03,MLB_005_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC02,MLB_005,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC02_D01,MLB_005_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC02_D02,MLB_005_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC02_D03,MLB_005_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC03,MLB_005,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC03_D01,MLB_005_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC03_D02,MLB_005_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLB_005_SC03_D03,MLB_005_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC01,MLN_006,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC01_D01,MLN_006_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC01_D02,MLN_006_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC01_D03,MLN_006_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC01_D04,MLN_006_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC02,MLN_006,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC02_D01,MLN_006_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC02_D02,MLN_006_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC02_D03,MLN_006_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC03,MLN_006,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC03_D01,MLN_006_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC03_D02,MLN_006_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLN_006_SC03_D03,MLN_006_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC01,MLP_007,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC01_D01,MLP_007_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC01_D02,MLP_007_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC01_D03,MLP_007_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC01_D04,MLP_007_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC02,MLP_007,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC02_D01,MLP_007_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC02_D02,MLP_007_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLP_007_SC02_D03,MLP_007_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC01,MLH_008,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC01_D01,MLH_008_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC01_D02,MLH_008_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC01_D03,MLH_008_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC02,MLH_008,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC02_D01,MLH_008_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC02_D02,MLH_008_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC02_D03,MLH_008_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC03,MLH_008,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC03_D01,MLH_008_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC03_D02,MLH_008_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLH_008_SC03_D03,MLH_008_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC01,MLO_009,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC01_D01,MLO_009_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC01_D02,MLO_009_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC01_D03,MLO_009_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC02,MLO_009,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC02_D01,MLO_009_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC02_D02,MLO_009_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC02_D03,MLO_009_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC03,MLO_009,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC03_D01,MLO_009_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC03_D02,MLO_009_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLO_009_SC03_D03,MLO_009_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010,machine_learning_insights,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC01,MLW_010,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC01_D01,MLW_010_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC01_D02,MLW_010_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC01_D03,MLW_010_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC01_D04,MLW_010_SC01,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC02,MLW_010,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC02_D01,MLW_010_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC02_D02,MLW_010_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC02_D03,MLW_010_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC02_D04,MLW_010_SC02,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC03,MLW_010,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC03_D01,MLW_010_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC03_D02,MLW_010_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC03_D03,MLW_010_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLW_010_SC03_D04,MLW_010_SC03,ALLOWS_UNDERSTANDING_OF,This relationship shows that understanding a more granular node is a prerequisite for understanding a more complex one.
+MLC_002,MLN_006,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLC_002,MLO_009,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLD_003,MLM_004,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLD_003,MLP_007,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLM_004,MLB_005,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLM_004,MLP_007,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLB_005,MLH_008,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLP_007,MLH_008,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLC_002,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLD_003,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLM_004,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLB_005,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLN_006,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLP_007,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLH_008,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLO_009,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLC_002,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLD_003,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLM_004,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLB_005,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLN_006,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLP_007,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLH_008,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLO_009,MLW_010,PREREQUISITE,"This relationship defines the sequential learning path, ensuring foundational concepts are mastered before moving on to more complex topics."
+MLF_001,MLN_006,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLN_006,MLF_001,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLC_002,MLN_006,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLN_006,MLC_002,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLO_009,MLB_005,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLB_005,MLO_009,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLM_004,MLP_007,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLP_007,MLM_004,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLH_008,MLM_004,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLM_004,MLH_008,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLH_008,MLP_007,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLP_007,MLH_008,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLH_008,MLB_005,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLB_005,MLH_008,CROSS_REFERENCES,This relationship highlights direct content connections and bridges between different concepts.
+MLM_004,MLH_008,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLP_007,MLH_008,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLB_005,MLH_008,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLD_003,MLH_008,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLF_001,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLC_002,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLD_003,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLM_004,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLB_005,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLN_006,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLP_007,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLH_008,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLO_009,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLW_010,MLW_010,APPLIES_TO,This relationship shows where general concepts are applied to specific domains or problems.
+MLF_001,MLC_002,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Theory cluster.
+MLC_002,MLF_001,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Theory cluster.
+MLF_001,MLN_006,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Theory cluster.
+MLN_006,MLF_001,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Theory cluster.
+MLC_002,MLN_006,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Theory cluster.
+MLN_006,MLC_002,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Theory cluster.
+MLD_003,MLM_004,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Practice cluster.
+MLM_004,MLD_003,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Practice cluster.
+MLD_003,MLP_007,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Practice cluster.
+MLP_007,MLD_003,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Practice cluster.
+MLM_004,MLP_007,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Practice cluster.
+MLP_007,MLM_004,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Practice cluster.
+MLB_005,MLP_007,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Optimization cluster.
+MLP_007,MLB_005,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Optimization cluster.
+MLO_009,MLH_008,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Application cluster.
+MLH_008,MLO_009,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Application cluster.
+MLO_009,MLW_010,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Application cluster.
+MLW_010,MLO_009,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Application cluster.
+MLH_008,MLW_010,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Application cluster.
+MLW_010,MLH_008,CONCEPTUAL_CLUSTER,This relationship groups concepts into thematic clusters based on their role in the learning process. Part of the Application cluster.
+MLF_001,MLC_002,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLF_001,MLD_003,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLC_002,MLM_004,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLC_002,MLB_005,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLC_002,MLN_006,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLC_002,MLP_007,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLD_003,MLM_004,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLD_003,MLB_005,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLD_003,MLN_006,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLD_003,MLP_007,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLM_004,MLH_008,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLM_004,MLO_009,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLM_004,MLW_010,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLB_005,MLH_008,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLB_005,MLO_009,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLB_005,MLW_010,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLN_006,MLH_008,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLN_006,MLO_009,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLN_006,MLW_010,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLP_007,MLH_008,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLP_007,MLO_009,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLP_007,MLW_010,DIFFICULTY_PROGRESSION,This relationship structures the curriculum into a sequence of increasing complexity.
+MLF_001,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLC_002,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLD_003,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLM_004,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLB_005,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLN_006,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLP_007,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLH_008,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLO_009,MLW_010,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLM_004,MLH_008,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLP_007,MLH_008,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLB_005,MLH_008,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLD_003,MLH_008,SYNTHESIZES,This relationship identifies capstone concepts that integrate and combine multiple other concepts.
+MLN_006,MLC_002,SPECIALIZES,This relationship shows how a specific concept is a specialized instance of a more general one.
+MLH_008,MLO_009,SPECIALIZES,This relationship shows how a specific concept is a specialized instance of a more general one.
+MLH_008,MLW_010,SPECIALIZES,This relationship shows how a specific concept is a specialized instance of a more general one.
